@@ -1,10 +1,10 @@
-# employeesmanager
+# A simple Teachers to do app with firebase
 
-> A Vue.js project
+> A Vue.js to do APP
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
